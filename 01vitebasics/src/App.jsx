@@ -1,6 +1,7 @@
+import Y from "./y"
 function App() {
   return (
-    <h1>Hello with vite</h1>
+    <Y/>
   )
 }
 export default App
